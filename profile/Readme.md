@@ -14,4 +14,4 @@
 
 소스코드 저장소: [소스코드](https://github.com/Buram-Highschool-learning-JAVA/Java_Edu/tree/main/Source_Codes)
 
-질문/에러 저장소: [issues](https://github.com/Buram-Highschool-learning-JAVA/Java_Edu/issues)
+질문/에러 저장소: [이슈](https://github.com/Buram-Highschool-learning-JAVA/Java_Edu/issues)
