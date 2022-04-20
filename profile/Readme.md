@@ -2,6 +2,8 @@
 
 학습계획: [계획](https://github.com/Buram-Highschool-learning-JAVA/Java_Edu/blob/main/%ED%95%99%EC%8A%B5%EA%B3%84%ED%9A%8D.md)
 
+웹사이트: [페이지](https://buram-highschool-learning-java.github.io/Java_EDU/)
+
 ## 자료들
 
 학습에 사용하는 문서 : [점프 투 자바](https://wikidocs.net/book/31) 
