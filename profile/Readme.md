@@ -4,6 +4,8 @@
 
 웹사이트: [페이지](https://buram-highschool-learning-java.github.io/Java_EDU/)
 
+보고서: [보고서]((https://github.com/Buram-Highschool-learning-JAVA/Java_Edu/blob/main/report.md)
+
 ## 자료들
 
 학습에 사용하는 문서 : [점프 투 자바](https://wikidocs.net/book/31) 
