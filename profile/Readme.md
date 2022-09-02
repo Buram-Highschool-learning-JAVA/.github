@@ -4,7 +4,7 @@
 
 웹사이트: [페이지](https://buram-highschool-learning-java.github.io/Java_EDU/)
 
-보고서: [보고서](https://github.com/Buram-Highschool-learning-JAVA/Java_Edu/blob/main/report.md)
+프로젝트 파일: [프로젝트 Repo](https://github.com/urous3814/webproject)
 
 ## 자료들
 
