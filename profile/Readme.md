@@ -14,8 +14,6 @@
 
 ## 학습공간
 
-### dkssud
-
 자바 학습공간: [자바 EDU](https://github.com/Buram-Highschool-learning-JAVA/Java_Edu)
 
 소스코드 저장소: [소스코드](https://github.com/Buram-Highschool-learning-JAVA/Java_Edu/tree/main/Source_Codes)
